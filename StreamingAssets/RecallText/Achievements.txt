@@ -1,0 +1,4 @@
+ * Created an Android app available on Play Store with firebase and Java - Android Studio.
+ * Forming part of a Business Intelligence project with Automation.
+ * Some unity mobile and pc games.
+ * Data extraction and task automation with Python.
